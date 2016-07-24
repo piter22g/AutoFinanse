@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AutoFinanse</string>
+    <string name="podsumowanie">Podsumowanie</string>
+    <string name="lista">Lista wydatków</string>
+    <string name="dodaj">Dodaj</string>
+    <string name="back">Wróć</string>
+    <string name="opis_wydatku">Opis wydatku</string>
+    <string name="koszt">Koszt</string>
+    <string name="tytul_wydatku">Tytuł wydatku</string>
+    <string name="wydatki_ogolem">Wydatki ogółem</string>
+    <string name="dodaj_wydatki">Dodaj wydatki</string>
+    <string name="tytul_wymagany">Tytuł jest wymagany</string>
+    <string name="koszt_wymagany">Koszt jest wymagany</string>
+    <string name="opis_wymagany">Opis jest wymagany</string>
+
+</resources>
